@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Overview of Hystar. Hystar combines hypernetwork-driven dynamic SVD modulation on attention layers with static SVD modulation on MLP layers for style-adaptive retrieval.</em>
+  <em></em>
 </p>
 
 
