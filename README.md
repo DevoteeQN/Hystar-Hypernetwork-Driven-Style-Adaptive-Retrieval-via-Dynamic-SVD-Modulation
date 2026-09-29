@@ -1,7 +1,7 @@
 ## Overview
 
 <p align="center">
-  <img src="assets/pipeline.pdf" width="95%">
+  <img src="assets/pipeline.png" width="95%">
 </p>
 
 <p align="center">
