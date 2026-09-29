@@ -1,3 +1,14 @@
+## Overview
+
+<p align="center">
+  <img src="assets/pipeline.pdf" width="95%">
+</p>
+
+<p align="center">
+  <em>Overview of Hystar. Hystar combines hypernetwork-driven dynamic SVD modulation on attention layers with static SVD modulation on MLP layers for style-adaptive retrieval.</em>
+</p>
+
+
 # Hystar
 
 Code for **Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation** (ICLR 2026).
