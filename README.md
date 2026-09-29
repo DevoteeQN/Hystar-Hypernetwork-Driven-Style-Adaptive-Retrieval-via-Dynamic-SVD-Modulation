@@ -9,7 +9,11 @@
 </p>
 
 
-# Hystar
+# Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation
+
+[![arXiv](https://img.shields.io/badge/arXiv-2605.10009-b31b1b.svg)](https://arxiv.org/abs/2605.10009)
+[![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue.svg)](#)
+
 
 Code for **Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation** (ICLR 2026).
 
