@@ -5,7 +5,7 @@ Code for **Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD 
 Hystar adapts a frozen vision-language encoder to heterogeneous query styles by combining:
 
 - **Dynamic SVD modulation** on selected attention layers, where a DINOv2 style embedding conditions a lightweight hypernetwork that predicts singular-value updates.
-  For CLIP self-attention, the packed projection `W_qkv = [W_q; W_k; W_v]` is decomposed jointly, so one predicted `delta_s` reconstructs one full `[3d, d]` QKV update.
+  For self-attention, the packed projection `W_qkv = [W_q; W_k; W_v]` is decomposed jointly, so one predicted `delta_s` reconstructs one full `[3d, d]` QKV update.
 - **Static SVD modulation** on MLP layers for style-independent cross-domain calibration.
 - **StyleNCE**, an OT-weighted contrastive objective for cross-style retrieval.
 
