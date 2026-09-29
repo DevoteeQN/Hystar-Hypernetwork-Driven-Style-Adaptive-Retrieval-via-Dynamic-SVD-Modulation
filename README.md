@@ -1,6 +1,6 @@
 # Hystar
 
-Compact reference code for **Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation** (ICLR 2026).
+Code for **Hystar: Hypernetwork-Driven Style-Adaptive Retrieval via Dynamic SVD Modulation** (ICLR 2026).
 
 Hystar adapts a frozen vision-language encoder to heterogeneous query styles by combining:
 
